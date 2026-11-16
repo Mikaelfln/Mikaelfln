@@ -20,7 +20,7 @@ jobs:
       - name: Generate snake.svg (GitHub Dark Style)
         uses: Platane/snk@v3
         with:
-          github_user_name: Mikaelbfaa
+          github_user_name: Mikaelfln
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#39D353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&background=#0d1117
 
